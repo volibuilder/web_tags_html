@@ -1,1 +1,1 @@
-This is a simple WEBSITE project in HTML, describing the functions of HTML tags and using these tags for page navigability.
+This is a simple WEBSITE project in HTML, which provides an overview of the structure of an HTML page.
